@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Raleway-Bold' ;
+    src: url('../fonts/Raleway-Bold.ttf'),
+         url('../fonts/Raleway-Bold.woff2') format('woff2'), 
+         url('../fonts/Raleway-Bold.woff') format('woff'),
+         url('../fonts/Raleway-Bold.eot') format('eot');
+}
+@font-face {
+    font-family: 'Raleway-ExtraBold';
+    src: url('../fonts/Raleway-ExtraBold.ttf'),
+    url('../fonts/Raleway-ExtraBold.woff2') format('woff2'), 
+         url('../fonts/Raleway-ExtraBold.woff') format('woff'),
+         url('../fonts/Raleway-ExtraBold.eot') format('eot');
+}
+@font-face {
+    font-family: 'Nunito-Bold' ;
+    src: url('../fonts/Nunito-Bold.ttf'),
+    url('../fonts/Nunito-Bold.woff2') format('woff2'), 
+         url('../fonts/Nunito-Bold.woff') format('woff'),
+         url('../fonts/Nunito-Bold.eot') format('eot');
+}
+@font-face {
+    font-family: 'Nunito-Regular';
+    src: url('../fonts/Nunito-Regular.ttf'),
+    url('../fonts/Nunito-Regular.woff2') format('woff2'), 
+    url('../fonts/Nunito-Regular.woff') format('woff'),
+    url('../fonts/Nunito-Regular.eot') format('eot');
+}
